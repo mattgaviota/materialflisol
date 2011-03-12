@@ -7,15 +7,15 @@ organización de Flisol sede Salta.
 Campaña agresiva
 ================
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-abuela.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-abuela.png
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-mamadera.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-mamadera.png
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-condon.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-condon.png
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-error.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-error.png
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-basura.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-basura.png
 
-.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-teclado.png
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/campa%C3%B1a%20agresiva/agresivo-teclado.png
 
