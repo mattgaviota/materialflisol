@@ -17,4 +17,5 @@ Campaña agresiva
 
 .. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-basura.png
 
+.. figure:: https://github.com/pointtonull/materialflisol/raw/master/agresivo-teclado.png
 
