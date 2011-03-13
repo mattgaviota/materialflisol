@@ -1,7 +1,7 @@
 Sobre
 =====
 
-Este es un repositorio para intercambio de aportes e ideas en el ambito de la
+Este es un repositorio para intercambio de aportes e ideas en el ámbito de la
 organización de Flisol sede Salta.
 
 Campaña agresiva
