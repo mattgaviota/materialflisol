@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="agresivo-mamadera.svg"
-   inkscape:export-filename="/home/deimos/documentos/flisol2011/material grafico/agresivo-mamadera.png"
+   inkscape:export-filename="/home/deimos/documentos/flisol2011/material grafico/campaña agresiva/agresivo-mamadera.png"
    inkscape:export-xdpi="50.030304"
    inkscape:export-ydpi="50.030304">
   <defs
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
