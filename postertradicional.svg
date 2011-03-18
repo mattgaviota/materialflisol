@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.1 r9760"
    version="1.0"
-   sodipodi:docname="postertradicional.pdf"
+   sodipodi:docname="postertradicional.svg"
    inkscape:export-filename="/home/deimos/documentos/flisol2011/material grafico/2010poster1ok_A3_tr.png"
    inkscape:export-xdpi="50"
    inkscape:export-ydpi="50">
@@ -1085,11 +1085,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36890476"
-     inkscape:cx="526.18109"
-     inkscape:cy="1069.3817"
+     inkscape:zoom="0.52171011"
+     inkscape:cx="405.71006"
+     inkscape:cy="307.59949"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3345"
      width="524.40945px"
      height="744.09449px"
      showguides="true"
@@ -1108,7 +1108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>30/1/2008</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -2135,7 +2135,7 @@
              id="tspan3332"
              x="643.52246"
              y="999.64679"
-             style="font-size:18px">http://www.installfest.net</tspan><tspan
+             style="font-size:18px">http://flisol.saltalug.org.ar</tspan><tspan
              sodipodi:role="line"
              x="643.52246"
              y="1022.1468"
