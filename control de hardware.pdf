@@ -40,15 +40,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 8 0 R
+ /Dest [ 9 0 R
  /XYZ
- 62.69291
- 469.4586
+ 85.69291
+ 346.8436
  0 ]
  /Rect [ 174.6129
- 701.5936
- 310.2329
- 713.5936 ]
+ 684.5936
+ 313.0129
+ 696.5936 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -58,15 +58,15 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 8 0 R
+ /Dest [ 9 0 R
  /XYZ
- 62.69291
- 595.4586
+ 85.69291
+ 442.8436
  0 ]
  /Rect [ 210.1929
- 683.5936
- 299.1229
- 695.5936 ]
+ 666.5936
+ 301.9029
+ 678.5936 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -76,30 +76,49 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 8 0 R
+ /Dest [ 9 0 R
  /XYZ
- 62.69291
- 532.4586
+ 85.69291
+ 394.8436
  0 ]
- /Rect [ 136.2176
- 665.5936
- 226.4007
- 677.5936 ]
+ /Rect [ 136.6566
+ 648.5936
+ 227.1323
+ 660.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 9 0 R
+ /XYZ
+ 85.69291
+ 346.8436
+ 0 ]
+ /Rect [ 127.2892
+ 483.5936
+ 267.2137
+ 495.5936 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-8 0 obj
+9 0 obj
 % Page dictionary
 << /Annots [ 5 0 R
  6 0 R
- 7 0 R ]
- /Contents 16 0 R
+ 7 0 R
+ 8 0 R ]
+ /Contents 17 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 15 0 R
+ /Parent 16 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -110,76 +129,84 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R9': class PDFCatalog 
-9 0 obj
+% 'Page2': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 18 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R11': class PDFCatalog 
+11 0 obj
 % Document Root
-<< /Outlines 11 0 R
- /PageLabels 17 0 R
+<< /Outlines 13 0 R
+ /PageLabels 19 0 R
  /PageMode /UseNone
- /Pages 15 0 R
+ /Pages 16 0 R
  /Type /Catalog >>
 endobj
-% 'R10': class PDFInfo 
-10 0 obj
+% 'R12': class PDFInfo 
+12 0 obj
 << /Author ()
- /CreationDate (D:20110324035034+03'00')
+ /CreationDate (D:20110324042206+03'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Propuesta de control de hardware) >>
 endobj
-% 'R11': class PDFOutlines 
-11 0 obj
-<< /Count 3
- /First 12 0 R
- /Last 14 0 R
+% 'R13': class PDFOutlines 
+13 0 obj
+<< /Count 2
+ /First 14 0 R
+ /Last 15 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-12 0 obj
-<< /Dest [ 8 0 R
+14 0 obj
+<< /Dest [ 9 0 R
  /XYZ
  62.69291
- 587.0236
+ 729.0236
  0 ]
- /Next 13 0 R
- /Parent 11 0 R
- /Title (Planilla de personas) >>
+ /Next 15 0 R
+ /Parent 13 0 R
+ /Title (La idea consta de 5 procesos:) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-13 0 obj
-<< /Dest [ 8 0 R
- /XYZ
- 62.69291
- 524.0236
- 0 ]
- /Next 14 0 R
- /Parent 11 0 R
- /Prev 12 0 R
- /Title (Planilla de Hardware) >>
-endobj
-% 'Outline.2': class OutlineEntryObject 
-14 0 obj
-<< /Dest [ 8 0 R
- /XYZ
- 62.69291
- 461.0236
- 0 ]
- /Parent 11 0 R
- /Prev 13 0 R
- /Title (Renuncia de responsabilidades) >>
-endobj
-% 'R15': class PDFPages 
 15 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 570.0236
+ 0 ]
+ /Parent 13 0 R
+ /Prev 14 0 R
+ /Title (Anexos) >>
+endobj
+% 'R16': class PDFPages 
+16 0 obj
 % page tree
-<< /Count 1
- /Kids [ 8 0 R ]
+<< /Count 2
+ /Kids [ 9 0 R
+ 10 0 R ]
  /Type /Pages >>
 endobj
-% 'R16': class PDFStream 
-16 0 obj
+% 'R17': class PDFStream 
+17 0 obj
 % page stream
-<< /Length 8519 >>
+<< /Length 9402 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -189,19 +216,19 @@ BT 1 0 0 1 0 9.64 Tm 73.23488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Propuesta de contro
 Q
 Q
 q
-1 0 0 1 62.69291 719.0236 cm
+1 0 0 1 62.69291 708.0236 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (La idea consta de 5 procesos) Tj /F1 10 Tf (:) Tj T* ET
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (La idea consta de 5 procesos:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 696.0236 cm
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 696.0236 cm
 Q
 q
-1 0 0 1 62.69291 695.0236 cm
+1 0 0 1 62.69291 678.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -214,20 +241,20 @@ Q
 q
 1 0 0 1 23 3 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Se le hace firmar la ) Tj 0 0 .501961 rg (renuncia de responsabilidades) Tj 0 0 0 rg (. que tiene asociado un n\372mero.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Se le hace firmar la ) Tj 0 0 .501961 rg (renuncia de responsabilidades ) Tj 0 0 0 rg (que tiene asociado un n\372mero.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 695.0236 cm
+1 0 0 1 62.69291 678.0236 cm
 Q
 q
-1 0 0 1 62.69291 695.0236 cm
+1 0 0 1 62.69291 678.0236 cm
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 62.69291 660.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -240,20 +267,20 @@ Q
 q
 1 0 0 1 23 3 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Con ese n\372mero se llena la ) Tj 0 0 .501961 rg (planilla de personas) Tj 0 0 0 rg (. y se firma el ingreso.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Con ese n\372mero se llena la ) Tj 0 0 .501961 rg (planilla de personas ) Tj 0 0 0 rg (y se firma el ingreso.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 62.69291 660.0236 cm
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 62.69291 660.0236 cm
 Q
 q
-1 0 0 1 62.69291 647.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -266,20 +293,20 @@ Q
 q
 1 0 0 1 23 3 cm
 q
-BT 1 0 0 1 0 16.82 Tm .351567 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se llena la ) Tj 0 0 .501961 rg (planilla de hardware) Tj 0 0 0 rg (.. En el caso de haber mas de un elemento de hardware se utiliza el) Tj T* 0 Tw (mismo n\372mero.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm .497882 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se llena la ) Tj 0 0 .501961 rg (planilla de hardware) Tj 0 0 0 rg (. En el caso de haber mas de un elemento de hardware se utiliza el) Tj T* 0 Tw (mismo n\372mero.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 647.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 647.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -300,13 +327,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -327,24 +354,92 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 Q
 q
-1 0 0 1 62.69291 599.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 Q
 q
-1 0 0 1 62.69291 566.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Planilla de personas) Tj T* ET
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Anexos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 554.0236 cm
+1 0 0 1 62.69291 537.0236 cm
 Q
 q
-1 0 0 1 62.69291 536.0236 cm
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Como etiquetar el hardware) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+BT 1 0 0 1 0 40.82 Tm .487485 Tw 12 TL /F1 10 Tf 0 0 0 rg (Me parece que lo mas conveniente ser\355a conseguir un sello numerico y papel adhesivo. Se corta el) Tj T* 0 Tw .293516 Tw (papel adhesivo en peque\361os pedazos y se sellan de acuerdo al numero que se le asigne. Como las) Tj T* 0 Tw .50816 Tw (hojas de ) Tj 0 0 .501961 rg (renuncia de responsabilidades ) Tj 0 0 0 rg (son unicas, podriamos numerarlas previamente, y guiarnos) Tj T* 0 Tw (en base a ellas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (De no conseguir un sello numerico, bien podriamos hacerlo a mano con algun marcador indeleble.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Planilla de personas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
 1 1 1 rg
-n 0 18 469.8898 -18 re f*
+n 0 18 446.8898 -18 re f*
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -355,21 +450,21 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (id_persona) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.36342 3 cm
+1 0 0 1 91.94034 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (nombre y apellido) Tj T* ET
 Q
 Q
 q
-1 0 0 1 249.9812 3 cm
+1 0 0 1 238.0389 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (firma_ingreso) Tj T* ET
 Q
 Q
 q
-1 0 0 1 367.4537 3 cm
+1 0 0 1 349.7614 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (firma_egreso) Tj T* ET
@@ -380,31 +475,57 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 90.36342 0 m 90.36342 18 l S
-n 243.9812 0 m 243.9812 18 l S
-n 361.4537 0 m 361.4537 18 l S
-n 0 18 m 469.8898 18 l S
-n 0 0 m 469.8898 0 l S
+n 85.94034 0 m 85.94034 18 l S
+n 232.0389 0 m 232.0389 18 l S
+n 343.7614 0 m 343.7614 18 l S
+n 0 18 m 446.8898 18 l S
+n 0 0 m 446.8898 0 l S
 n 0 0 m 0 18 l S
-n 469.8898 0 m 469.8898 18 l S
+n 446.8898 0 m 446.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 536.0236 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 62.69291 503.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Planilla de Hardware) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 491.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 473.0236 cm
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Planilla de Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
 1 1 1 rg
-n 0 18 469.8898 -18 re f*
+n 0 18 446.8898 -18 re f*
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -415,7 +536,7 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (id_persona) Tj T* ET
 Q
 Q
 q
-1 0 0 1 267.0499 3 cm
+1 0 0 1 254.2721 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (hardware) Tj T* ET
@@ -426,58 +547,84 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 261.0499 0 m 261.0499 18 l S
-n 0 18 m 469.8898 18 l S
-n 0 0 m 469.8898 0 l S
+n 248.2721 0 m 248.2721 18 l S
+n 0 18 m 446.8898 18 l S
+n 0 0 m 446.8898 0 l S
 n 0 0 m 0 18 l S
-n 469.8898 0 m 469.8898 18 l S
+n 446.8898 0 m 446.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 473.0236 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 62.69291 440.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Renuncia de responsabilidades) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 231 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Renuncia de responsabilidades) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 213 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Salta Capital, Salta, Argentina 9 de abril de 2011) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 23 195 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Aviso Legal) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 23 153 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .273516 Tw (Es deber del asistente hacer, previo a la instalaci\363n, una copia de respaldo de los datos almacenados en) Tj T* 0 Tw 2.47784 Tw (la computadora por tratarse de procedimientos que podr\355an ser riesgosos para la integridad de los) Tj T* 0 Tw (mismos.) Tj T* ET
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 3.853318 Tw (Es deber del asistente hacer, previo a la instalaci\363n, una copia de respaldo de los datos) Tj T* 0 Tw .899213 Tw (almacenados en la computadora por tratarse de procedimientos que podr\355an ser riesgosos para la) Tj T* 0 Tw (integridad de los mismos.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 320.0236 cm
+1 0 0 1 23 99 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.226342 Tw (Yo, ......................................................................... , he le\355do el presente documento y al firmarlo acepto) Tj T* 0 Tw .177045 Tw (que ni los organizadores del FLISoL 2011, ni la Universidad de Costa Rica se har\341n responsables por los) Tj T* 0 Tw (incidentes que se enumeran en este contrato Los organizadores no se responsabilizan por:) Tj T* ET
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 2.328976 Tw (Yo, ......................................................................... , he le\355do el presente documento y al firmarlo) Tj T* 0 Tw 2.816651 Tw (acepto que ni los organizadores del FLISoL 2011, ni la Universidad de Costa Rica se har\341n) Tj T* 0 Tw 3.035366 Tw (responsables por los incidentes que se enumeran en este contrato Los organizadores no se) Tj T* 0 Tw (responsabilizan por:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 314.0236 cm
+1 0 0 1 23 93 cm
 Q
 q
-1 0 0 1 62.69291 314.0236 cm
+1 0 0 1 23 93 cm
 Q
 q
-1 0 0 1 62.69291 296.0236 cm
+1 0 0 1 23 75 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -498,13 +645,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 296.0236 cm
+1 0 0 1 23 75 cm
 Q
 q
-1 0 0 1 62.69291 296.0236 cm
+1 0 0 1 23 75 cm
 Q
 q
-1 0 0 1 62.69291 278.0236 cm
+1 0 0 1 23 57 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -525,13 +672,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 278.0236 cm
+1 0 0 1 23 57 cm
 Q
 q
-1 0 0 1 62.69291 278.0236 cm
+1 0 0 1 23 57 cm
 Q
 q
-1 0 0 1 62.69291 260.0236 cm
+1 0 0 1 23 39 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -552,13 +699,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 260.0236 cm
+1 0 0 1 23 39 cm
 Q
 q
-1 0 0 1 62.69291 260.0236 cm
+1 0 0 1 23 39 cm
 Q
 q
-1 0 0 1 62.69291 242.0236 cm
+1 0 0 1 23 21 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -579,13 +726,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 242.0236 cm
+1 0 0 1 23 21 cm
 Q
 q
-1 0 0 1 62.69291 242.0236 cm
+1 0 0 1 23 21 cm
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 23 3 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -606,13 +753,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 62.69291 194.0236 cm
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R18': class PDFStream 
+18 0 obj
+% page stream
+<< /Length 1105 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 71 Tm  T* ET
+q
+1 0 0 1 23 51 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -626,50 +791,67 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.71229 Tw (en caso de disconformidad con la instalaci\363n del programa, los organizadores no reinstalar\341n la) Tj T* 0 Tw (copia de respaldo.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .818314 Tw (en caso de disconformidad con la instalaci\363n del programa, los organizadores no reinstalar\341n) Tj T* 0 Tw (la copia de respaldo.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 194.0236 cm
+1 0 0 1 23 51 cm
 Q
 q
-1 0 0 1 62.69291 194.0236 cm
+1 0 0 1 23 51 cm
 Q
 q
-1 0 0 1 62.69291 176.0236 cm
+1 0 0 1 23 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Firma ..............................................) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 146.0236 cm
+1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .650697 Tw (Las condiciones del presente convenio, de participaci\363n del Festival de Instalaci\363n de Software Libre no) Tj T* 0 Tw (pueden ser alteradas sin el consentimiento de los organizadores.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .000751 Tw (Las condiciones del presente convenio, de participaci\363n del Festival de Instalaci\363n de Software Libre) Tj T* 0 Tw (no pueden ser alteradas sin el consentimiento de los organizadores.) Tj T* ET
 Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
 Q
  
 endstream
 
 endobj
-% 'R17': class PDFPageLabels 
-17 0 obj
+% 'R19': class PDFPageLabels 
+19 0 obj
 % Document Root
 << /Nums [ 0
- 18 0 R ] >>
+ 20 0 R
+ 1
+ 21 0 R ] >>
 endobj
-% 'R18': class PDFPageLabel 
-18 0 obj
+% 'R20': class PDFPageLabel 
+20 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
+% 'R21': class PDFPageLabel 
+21 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
 xref
-0 19
+0 22
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -678,25 +860,28 @@ xref
 0000000755 00000 n
 0000000995 00000 n
 0000001235 00000 n
-0000001460 00000 n
-0000001775 00000 n
-0000001933 00000 n
-0000002177 00000 n
-0000002302 00000 n
-0000002482 00000 n
-0000002677 00000 n
-0000002850 00000 n
-0000002957 00000 n
-0000011581 00000 n
-0000011674 00000 n
+0000001475 00000 n
+0000001700 00000 n
+0000002023 00000 n
+0000002304 00000 n
+0000002463 00000 n
+0000002707 00000 n
+0000002832 00000 n
+0000003021 00000 n
+0000003171 00000 n
+0000003287 00000 n
+0000012790 00000 n
+0000014000 00000 n
+0000014106 00000 n
+0000014183 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\336\301i\375%'+\314\275_\342\301_\177\033X) (\336\301i\375%'+\314\275_\342\301_\177\033X)] 
+ [(&Y\\\346\336\255\000\265b\316\036\345\225\203r\325) (&Y\\\346\336\255\000\265b\316\036\345\225\203r\325)] 
 
- /Info 10 0 R
- /Root 9 0 R
- /Size 19 >>
+ /Info 12 0 R
+ /Root 11 0 R
+ /Size 22 >>
 startxref
-11721
+14230
 %%EOF
