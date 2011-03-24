@@ -1,0 +1,702 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 469.4586
+ 0 ]
+ /Rect [ 174.6129
+ 701.5936
+ 310.2329
+ 713.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 595.4586
+ 0 ]
+ /Rect [ 210.1929
+ 683.5936
+ 299.1229
+ 695.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 532.4586
+ 0 ]
+ /Rect [ 136.2176
+ 665.5936
+ 226.4007
+ 677.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R9': class PDFCatalog 
+9 0 obj
+% Document Root
+<< /Outlines 11 0 R
+ /PageLabels 17 0 R
+ /PageMode /UseNone
+ /Pages 15 0 R
+ /Type /Catalog >>
+endobj
+% 'R10': class PDFInfo 
+10 0 obj
+<< /Author ()
+ /CreationDate (D:20110324035034+03'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Propuesta de control de hardware) >>
+endobj
+% 'R11': class PDFOutlines 
+11 0 obj
+<< /Count 3
+ /First 12 0 R
+ /Last 14 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 587.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 11 0 R
+ /Title (Planilla de personas) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 524.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 11 0 R
+ /Prev 12 0 R
+ /Title (Planilla de Hardware) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 461.0236
+ 0 ]
+ /Parent 11 0 R
+ /Prev 13 0 R
+ /Title (Renuncia de responsabilidades) >>
+endobj
+% 'R15': class PDFPages 
+15 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 8 0 R ]
+ /Type /Pages >>
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 8519 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 9.64 Tm 73.23488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Propuesta de control de hardware) Tj T* -73.23488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (La idea consta de 5 procesos) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Se le hace firmar la ) Tj 0 0 .501961 rg (renuncia de responsabilidades) Tj 0 0 0 rg (. que tiene asociado un n\372mero.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Con ese n\372mero se llena la ) Tj 0 0 .501961 rg (planilla de personas) Tj 0 0 0 rg (. y se firma el ingreso.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 16.82 Tm .351567 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se llena la ) Tj 0 0 .501961 rg (planilla de hardware) Tj 0 0 0 rg (.. En el caso de haber mas de un elemento de hardware se utiliza el) Tj T* 0 Tw (mismo n\372mero.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Se etiqueta el hardware con el numero de la persona.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .324198 Tw (Al retirarse, se comprueba que se retira con el hardware que se registro y luego se le hace firmar el) Tj T* 0 Tw (egreso.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+Q
+q
+1 0 0 1 62.69291 599.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Planilla de personas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (id_persona) Tj T* ET
+Q
+Q
+q
+1 0 0 1 96.36342 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (nombre y apellido) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.9812 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (firma_ingreso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4537 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (firma_egreso) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 90.36342 0 m 90.36342 18 l S
+n 243.9812 0 m 243.9812 18 l S
+n 361.4537 0 m 361.4537 18 l S
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Planilla de Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (id_persona) Tj T* ET
+Q
+Q
+q
+1 0 0 1 267.0499 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (hardware) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 261.0499 0 m 261.0499 18 l S
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Renuncia de responsabilidades) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Salta Capital, Salta, Argentina 9 de abril de 2011) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Aviso Legal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .273516 Tw (Es deber del asistente hacer, previo a la instalaci\363n, una copia de respaldo de los datos almacenados en) Tj T* 0 Tw 2.47784 Tw (la computadora por tratarse de procedimientos que podr\355an ser riesgosos para la integridad de los) Tj T* 0 Tw (mismos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 320.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.226342 Tw (Yo, ......................................................................... , he le\355do el presente documento y al firmarlo acepto) Tj T* 0 Tw .177045 Tw (que ni los organizadores del FLISoL 2011, ni la Universidad de Costa Rica se har\341n responsables por los) Tj T* 0 Tw (incidentes que se enumeran en este contrato Los organizadores no se responsabilizan por:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (la p\351rdida de datos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (da\361os en el hardware) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (da\361os ocasionado por problemas el\351ctricos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (robo o hurto que en las instalaciones) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (caso fortuito) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.71229 Tw (en caso de disconformidad con la instalaci\363n del programa, los organizadores no reinstalar\341n la) Tj T* 0 Tw (copia de respaldo.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Firma ..............................................) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 146.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .650697 Tw (Las condiciones del presente convenio, de participaci\363n del Festival de Instalaci\363n de Software Libre no) Tj T* 0 Tw (pueden ser alteradas sin el consentimiento de los organizadores.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R17': class PDFPageLabels 
+17 0 obj
+% Document Root
+<< /Nums [ 0
+ 18 0 R ] >>
+endobj
+% 'R18': class PDFPageLabel 
+18 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000755 00000 n
+0000000995 00000 n
+0000001235 00000 n
+0000001460 00000 n
+0000001775 00000 n
+0000001933 00000 n
+0000002177 00000 n
+0000002302 00000 n
+0000002482 00000 n
+0000002677 00000 n
+0000002850 00000 n
+0000002957 00000 n
+0000011581 00000 n
+0000011674 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\336\301i\375%'+\314\275_\342\301_\177\033X) (\336\301i\375%'+\314\275_\342\301_\177\033X)] 
+
+ /Info 10 0 R
+ /Root 9 0 R
+ /Size 19 >>
+startxref
+11721
+%%EOF
