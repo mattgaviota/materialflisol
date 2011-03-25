@@ -58,7 +58,7 @@ Anexos
   respaldo de los datos almacenados en la computadora por tratarse de
   procedimientos que podrían ser riesgosos para la integridad de los mismos.
 
-  Yo,.....................................................................,
+  Yo,.........................................................................,
 
   he leído el presente documento y al firmarlo acepto que ni los
   organizadores del FLISoL 2011, ni la Universidad Nacional de Salta se
@@ -73,8 +73,10 @@ Anexos
   6. En caso de disconformidad con la instalación del programa, los
      organizadores no reinstalarán la copia de respaldo.
 
+  
   Firma ..............................................
 
+  
   Las condiciones del presente convenio, de participación del Festival de
   Instalación de Software Libre no pueden ser alteradas sin el
   consentimiento de los organizadores. 
