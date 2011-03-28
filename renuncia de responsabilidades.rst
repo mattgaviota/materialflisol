@@ -18,7 +18,7 @@ Los organizadores no se responsabilizan por:
 1. La pérdida de datos
 2. Daños en el hardware
 3. Daños ocasionado por problemas eléctricos
-4. Robo o hurto que en las instalaciones
+4. Robo o hurto en las instalaciones
 5. Caso fortuito
 6. En caso de disconformidad con la instalación del programa, los
    organizadores no reinstalarán la copia de respaldo.
