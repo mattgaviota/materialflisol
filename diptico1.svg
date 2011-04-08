@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="504.32394"
-     inkscape:cy="210.06706"
+     inkscape:zoom="0.5"
+     inkscape:cx="340.27629"
+     inkscape:cy="360.99132"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,12 +38,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="1,0"
-       position="644.375,608"
-       id="guide8131" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <defs
      id="defs4">
     <linearGradient
@@ -2037,7 +2032,7 @@
     </g>
     <image
        y="830.64044"
-       x="45.468342"
+       x="45.672298"
        id="image8223"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAADvCAYAAABhXdQZAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXmQJVd95/s55+Ry96pbXUsvt7pbLbXU2hsJoW6EBEJ4ICzDG4/NYMDhefE8trHBwHMEOALz
@@ -3416,31 +3411,27 @@ gg==
 "
        height="167.98055"
        width="316.28137" />
-    <g
-       id="g3806"
-       transform="matrix(1.4424357,0,0,1.9665909,3.4211872,-699.96373)">
-      <rect
-         y="536.36218"
-         x="28.925985"
-         height="328"
-         width="220"
-         id="rect3009"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="536.36218"
-         x="250.66672"
-         height="328"
-         width="220"
-         id="rect3009-3"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="536.36218"
-         x="472.40744"
-         height="328"
-         width="220"
-         id="rect3009-7"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.68424487;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3009"
+       width="317.33585"
+       height="645.04181"
+       x="45.145061"
+       y="354.84125" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.68424487;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3009-3"
+       width="317.33585"
+       height="645.04181"
+       x="364.99182"
+       y="354.84125" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.68424487;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3009-7"
+       width="317.33585"
+       height="645.04181"
+       x="684.83856"
+       y="354.84125" />
     <g
        id="g3185"
        transform="matrix(3.1131185,0,0,3.1131185,-4467.1593,-1356.9832)"
@@ -3611,7 +3602,7 @@ gg==
        id="rect6812-6"
        width="276.04739"
        height="270.38397"
-       x="382.40689"
+       x="385.63605"
        y="701.50262"
        ry="43.897121" />
     <image
@@ -3885,23 +3876,13 @@ gg==
              id="tspan6614">Software Libre de Salta</tspan></text>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:31.20486259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
-       x="399.48965"
-       y="761.14935"
-       id="text6796"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0290179,0.97180035)"><tspan
-         sodipodi:role="line"
-         id="tspan6798"
-         x="399.48965"
-         y="761.14935">Sponsors</tspan></text>
-    <image
-       y="759.31244"
-       x="417.68497"
-       id="image6810"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAACGCAYAAACsX8bbAAAABHNCSVQICAgIfAhkiAAAC4pJREFU
+    <g
+       id="g8420"
+       transform="translate(4.6789246,0)">
+      <image
+         width="68.70472"
+         height="108.31098"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAACGCAYAAACsX8bbAAAABHNCSVQICAgIfAhkiAAAC4pJREFU
 eJztXdtuIzcMHS/y/7+cPrQOaPrcyJlJ0qIHCGyPJJKieFWc3cfxO/FZ3j/Ks4cY/zX489MCGDyO
 vxVYlfhZxrqS67z/8Q+QApFC+xh6/mMK/vgpxg1dAdUa2Vw29jjeQ8W3hoifiEdTC0JKStck8y7H
 nUpFm2L8euL5bO+V1XU+SqFs7FI93KVUZSVqY1MFPXmxg3BydHkv0ccdSt0kCFYqoRjpeE6t8XLL
@@ -3956,13 +3937,13 @@ YJZ2JiwGT8BiIov1XaZblH2nUlm8Yg3DtoF4ru0ydJrfZq3fwWjSU6dKZR0Wi63rPn6D74w1ynqc
 EiYdHJr/rTH1O//kZ1qb9gohpZ8+/8/jE7x+guf9Pfr8PwCY0pCCfyX+AhDCtg6wAVE7AAAAAElF
 TkSuQmCC
 "
-       height="108.31098"
-       width="68.70472" />
-    <image
-       y="903.63037"
-       x="396.80743"
-       id="image6821"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAA8CAYAAAAzO7tNAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+         id="image6810"
+         x="417.68497"
+         y="759.31244" />
+      <image
+         width="113.82395"
+         height="36.134586"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAA8CAYAAAAzO7tNAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJztfXl4XVXV/vvuc+6Uoc10kzRNUyiDQEEZRKZCEugMBQcaEAGVDymCAiKf4IAGRD9+yMynDMon
 qAikymAhdOSmBRVQZJAyCS20adrkpmmb6Sb3nrPf3x83KWmatGmbDgzv8+Tp03v3sM7e79177bXW
 Xof4BJ/gY4Da2tpQZih0lBxntLu7hfkEn2BnY8GCBSODweAUSuN9ax9xAbCiosJpa2tj/8LZ2dmq
@@ -4138,13 +4119,13 @@ ez4YyXjLddACmBJSpSTCJJaKurPLx+/Xrl3bAgBdXV3JSFbgNceYJsCMSqs6yCJQD+h2j97vm5rW
 xcPh7EjAcEJPtOnDrZ2d8UA4stxx+L4B8giMRvpfj+RjoG7z2fUqETgZQhakB1bGm5/d0N2d2NDd
 3ZWR2Rl3mXkMwAxazYGDf0LYD2QJhTZBDzGl+zZ0dm50uP1/YxOtF1m2q6EAAAAASUVORK5CYII=
 "
-       height="36.134586"
-       width="113.82395" />
-    <image
-       y="779.99493"
-       x="503.00848"
-       id="image6832"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAABcCAYAAAAPtnULAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+         id="image6821"
+         x="396.80743"
+         y="903.63037" />
+      <image
+         width="120.06608"
+         height="66.945953"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAABcCAYAAAAPtnULAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvWd4HdXV/v3bM3OqdI5675ZkFRv33nsDDLYB23QMhEDgCSWBkISEktBCDYQEQid0DBiCDcZg
 gxu4N1xl2bLVez19Zr8f5qgYbAcS4Mnz/n1f15GONDO7zT1rr7X2WnsEPxBmnzOfFUv/Kfr1LXK4
 I10pzc1thS0tLcNUEcpNinVZU+OicEc60EMGjc2tlNc309AebHZGRmyKi47aHh0dVfr2+0vr5563
@@ -4528,13 +4509,13 @@ wEppXxncehk8Wt66V35Q+btisFWPmqo+lBZa1XdWcqr8mqt+cvUvVnfziotyFb+xuI5nVmngmntI
 derGFR4sBwBdgZRb/9p90zTQdIHlg2BY0tysi2ijr7M/b/zBPX9oHYezy57/PxcNn+jOrsn2AAAA
 AElFTkSuQmCC
 "
-       height="66.945953"
-       width="120.06608" />
-    <image
-       y="896.15918"
-       x="522.86188"
-       id="image6843"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAABICAYAAAAH4kxJAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+         id="image6832"
+         x="503.00848"
+         y="779.99493" />
+      <image
+         width="118.29233"
+         height="53.905361"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAABICAYAAAAH4kxJAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsfWeYHMXV9anq7smzszub08zO5qC4ykgoIJAsMhgQmIwx2WQbgzHBvMYYMNFgwOQchEBkCUko
 57janCZszpNjd9X3Y3YXCQkQRti876fzPHpW06G6qvv0rapb954m+D+AYMCvU6isU6tEKlEJgIwB
 T5/O4/ZmuD0+azQSMUciYRoNR+DzBxDw+8EUBsYBpjBwzqEoDIwxUEpAKQUVaPwvJaCEQFKpkWRO
@@ -4830,49 +4811,71 @@ SERjWQYVLcDUuDxWOliyKeMty3Kj7Z9pdp9t5Re1XNyaoY93JKmUTEdnXyAnU0PrkuJfFWZr2oUS
 6dRrexe3o8j6dWniInvR6vS+J2+6wyKRdLi2PO+ZSqnqixLKRPYP3WyyRtFTumnF88HR+bFfUIVX
 gN2v0x8AAAAASUVORK5CYII=
 "
-       height="53.905361"
-       width="118.29233" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect6846"
-       width="233.1362"
-       height="2.1213202"
-       x="411.2388"
-       y="743.5564"
-       ry="1.0606601" />
+         id="image6843"
+         x="522.86188"
+         y="896.15918" />
+    </g>
+    <g
+       id="g8426"
+       transform="translate(-4.1471529,0)">
+      <text
+         transform="scale(1.0290179,0.97180035)"
+         sodipodi:linespacing="125%"
+         id="text6796"
+         y="761.14935"
+         x="399.48965"
+         style="font-size:31.20486259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+         xml:space="preserve"><tspan
+           y="761.14935"
+           x="399.48965"
+           id="tspan6798"
+           sodipodi:role="line">Sponsors</tspan></text>
+      <rect
+         ry="1.0606601"
+         y="743.5564"
+         x="411.2388"
+         height="2.1213202"
+         width="233.1362"
+         id="rect6846"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
     <rect
        ry="50.785091"
        y="376.23352"
-       x="382.40689"
+       x="385.63605"
        height="312.81036"
        width="276.04739"
        id="rect6866"
        style="opacity:0.75;fill:#ffffff;fill-opacity:1;display:inline" />
-    <text
-       transform="scale(1.0290179,0.97180037)"
-       sodipodi:linespacing="125%"
-       id="text6868"
-       y="426.44159"
-       x="399.48965"
-       style="font-size:31.20486259px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
-       xml:space="preserve"><tspan
-         y="426.44159"
+    <g
+       id="g8431"
+       transform="translate(-4.1466382,0)">
+      <text
+         xml:space="preserve"
+         style="font-size:31px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
          x="399.48965"
-         id="tspan6870"
-         sodipodi:role="line">Organiza</tspan></text>
-    <rect
-       ry="1.0606601"
-       y="418.28729"
-       x="411.2388"
-       height="2.1213202"
-       width="233.1362"
-       id="rect6880"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
+         y="426.44159"
+         id="text6868"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0290179,0.97180037)"><tspan
+           sodipodi:role="line"
+           id="tspan6870"
+           x="399.48965"
+           y="426.44159">Organiza</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect6880"
+         width="233.1362"
+         height="2.1213202"
+         x="411.2388"
+         y="418.35129"
+         ry="1.0606601" />
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6899"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
-       transform="translate(-4.3125763,308.2677)"><flowRegion
+       transform="translate(-1.0858612,308.2677)"><flowRegion
          id="flowRegion6901"><rect
            id="rect6903"
            width="249.20309"
@@ -4893,18 +4896,18 @@ gN2v0x8AAAAASUVORK5CYII=
          style="font-size:11px">Invitamos a todos a participar en SaltaLUG, no hay requisitos de ningún tipo. Anótate en la lista de correo del grupo visitando nuestra página web.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:59.26610184px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="405.29367"
+       x="408.52283"
        y="657.88342"
        id="text8147"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8149"
-         x="405.29367"
+         x="408.52283"
          y="657.88342"
          style="font-size:29.09864616px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Almonte Woodgrain;-inkscape-font-specification:Almonte Woodgrain">+info: [saltalug.org.ar]</tspan></text>
     <image
-       y="387.51797"
-       x="-294.31253"
+       y="217.81235"
+       x="-280.17041"
        id="image8159"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAF4CAYAAADwq/QnAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXdYFOfaP/5smdm+LL13FBQFFRUrqIhijRoNaiyxR5NYo8aoWGKJvcXee09s2NAYGwqKAoKA
@@ -6618,17 +6621,6 @@ EQkEgsYhikggEDQOUUQCgaBxiCISCASNQxSRQCBoHP8AYwLEk3+ZqZkAAAAASUVORK5CYII=
 "
        height="236.15686"
        width="182.14226" />
-    <text
-       xml:space="preserve"
-       style="font-size:61.16919708px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Abecedario;-inkscape-font-specification:Abecedario"
-       x="57.906914"
-       y="451.14703"
-       id="text8162"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8164"
-         x="57.906914"
-         y="451.14703">Actividades</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8166"
@@ -6640,26 +6632,9 @@ EQkEgsYhikggEDQOUUQCgaBxiCISCASNQxSRQCBoHP8AYwLEk3+ZqZkAAAAASUVORK5CYII=
            x="-18.384777"
            y="-688.50385"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8172"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot8174"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Abecedario_guiada;-inkscape-font-specification:Abecedario_guiada"
-       transform="translate(80.40202,1199.0197)"><flowRegion
-         id="flowRegion8176"><rect
-           id="rect8178"
-           width="245.36603"
-           height="210.36427"
-           x="-4.9497476"
-           y="-714.66681"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Abecedario_guiada;-inkscape-font-specification:Abecedario_guiada" /></flowRegion><flowPara
-         id="flowPara8180">Distribución (distro): es una compilación de programas para facilitar el uso y satisfacer nececidades especificas de los usuarios. Genericamente consiste en un empaquetado de herramientas de Sotware y bibliotecas junto al núcleo Linux.</flowPara><flowPara
-         id="flowPara8182" /><flowPara
-         id="flowPara8184">Hardware: Es la parte física de una computadora y más ampliamente la parte física de cualquier dispositivo electronico.Núcleo: programas básicos que tienen como función garantizar la carga y ejecución de los procesos, las entradas y salidas y proponerun intercambio entre el espacio núicleo y los programas de espacio usuario.</flowPara><flowPara
-         id="flowPara8188" /><flowPara
-         id="flowPara8186">Sistema operativo: un conjunto de programas destinados a permitir la administración de la computadora garantizando la interacción desde que encendemos la máquina.</flowPara><flowPara
-         id="flowPara8200">sistema (hardware).</flowPara></flowRoot>    <image
-       y="484.2901"
-       x="60.322937"
+         id="flowPara8172"></flowPara></flowRoot>    <image
+       y="576.74091"
+       x="63.268108"
        id="image8212"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApAAAAG7CAYAAAB0NqU4AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XdcVFf6P/DPzNCGjgiCKIKAiogRsFcUxYZREcUkJJYk6rrZlN0kmjXGRI3RNI36jSVrXBNr
@@ -7583,7 +7558,53 @@ RK5CYII=
            id="tspan9430-9-1"
            sodipodi:role="line">Software Libre</tspan></text>
     </g>
-  </g>
+    <g
+       id="g8373"
+       transform="translate(17.13731,0)">
+      <text
+         xml:space="preserve"
+         style="font-size:31px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+         x="67.979202"
+         y="419.92471"
+         id="text6868-7"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0290179,0.97180039)"><tspan
+           sodipodi:role="line"
+           id="tspan6870-4"
+           x="67.979202"
+           y="419.92471">Actividades</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect6880-1"
+         width="233.1362"
+         height="2.1213202"
+         x="70.107574"
+         y="412.01819"
+         ry="1.0606601" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6899-3"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+       transform="translate(-320.93262,309.77322)"><flowRegion
+         id="flowRegion6901-1"><rect
+           id="rect6903-4"
+           width="249.20309"
+           height="232.84523"
+           x="400.12192"
+           y="124.37605"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara8133-9"
+         style="font-size:11px">Somos un grupo de usuarios y entusiastas del Software Libre. No tenemos fines de lucro; nuestro único interés es ayudarnos y compartir conocimiento y experiencia.</flowPara><flowPara
+         id="flowPara8135-1"
+         style="font-size:11px" /><flowPara
+         id="flowPara8137-1"
+         style="font-size:11px">Nos comunicamos a través de una lista de correo electrónico y realizamos reuniones periódicas. También organizamos eventos de difusión como FLISoL o las Jornadas de Software Libre.</flowPara><flowPara
+         id="flowPara8139-1"
+         style="font-size:11px" /><flowPara
+         id="flowPara8141-0"
+         style="font-size:11px">Invitamos a todos a participar en SaltaLUG, no hay requisitos de ningún tipo. Anótate en la lista de correo del grupo visitando nuestra página web.</flowPara></flowRoot>  </g>
   <g
      id="g3166"
      inkscape:groupmode="layer"
