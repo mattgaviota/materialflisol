@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="485.83024"
-     inkscape:cy="299.47797"
+     inkscape:cx="466.02134"
+     inkscape:cy="356.22603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,14 +73,6 @@
        id="linearGradient3606"
        xlink:href="#linearGradient14205"
        inkscape:collect="always" />
-    <filter
-       id="filter10567"
-       inkscape:collect="always">
-      <feGaussianBlur
-         stdDeviation="0.51295436"
-         id="feGaussianBlur10569"
-         inkscape:collect="always" />
-    </filter>
     <radialGradient
        fx="-491.34122"
        fy="33.197422"
@@ -124,14 +116,6 @@
          id="stop1020"
          offset="1" />
     </linearGradient>
-    <filter
-       id="filter18841"
-       inkscape:collect="always">
-      <feGaussianBlur
-         stdDeviation="1.6463182"
-         id="feGaussianBlur18843"
-         inkscape:collect="always" />
-    </filter>
     <filter
        id="filter5366"
        inkscape:collect="always">
@@ -208,14 +192,6 @@
          id="stop10596"
          offset="1" />
     </linearGradient>
-    <filter
-       id="filter16020"
-       inkscape:collect="always">
-      <feGaussianBlur
-         stdDeviation="12.956781"
-         id="feGaussianBlur16022"
-         inkscape:collect="always" />
-    </filter>
     <radialGradient
        fx="-13397.574"
        fy="-313.87469"
@@ -2024,7 +2000,7 @@
       </g>
     </g>
     <image
-       y="830.64044"
+       y="810.74097"
        x="45.672298"
        id="image8223"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAADvCAYAAABhXdQZAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -3744,13 +3720,11 @@ gg==
              id="tspan6614">Software Libre de Salta</tspan></text>
       </g>
     </g>
-    <g
-       id="g8420"
-       transform="matrix(0.85321263,0,0,0.85321263,80.858754,150.09102)">
-      <image
-         width="68.70472"
-         height="108.31098"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAACGCAYAAACsX8bbAAAABHNCSVQICAgIfAhkiAAAC4pJREFU
+    <image
+       y="797.94598"
+       x="437.23285"
+       id="image6810"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAACGCAYAAACsX8bbAAAABHNCSVQICAgIfAhkiAAAC4pJREFU
 eJztXdtuIzcMHS/y/7+cPrQOaPrcyJlJ0qIHCGyPJJKieFWc3cfxO/FZ3j/Ks4cY/zX489MCGDyO
 vxVYlfhZxrqS67z/8Q+QApFC+xh6/mMK/vgpxg1dAdUa2Vw29jjeQ8W3hoifiEdTC0JKStck8y7H
 nUpFm2L8euL5bO+V1XU+SqFs7FI93KVUZSVqY1MFPXmxg3BydHkv0ccdSt0kCFYqoRjpeE6t8XLL
@@ -3805,13 +3779,13 @@ YJZ2JiwGT8BiIov1XaZblH2nUlm8Yg3DtoF4ru0ydJrfZq3fwWjSU6dKZR0Wi63rPn6D74w1ynqc
 EiYdHJr/rTH1O//kZ1qb9gohpZ8+/8/jE7x+guf9Pfr8PwCY0pCCfyX+AhDCtg6wAVE7AAAAAElF
 TkSuQmCC
 "
-         id="image6810"
-         x="417.68497"
-         y="759.31244" />
-      <image
-         width="113.82395"
-         height="36.134586"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAA8CAYAAAAzO7tNAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+       height="92.4123"
+       width="58.619736" />
+    <image
+       y="911.0799"
+       x="419.41986"
+       id="image6821"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAA8CAYAAAAzO7tNAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJztfXl4XVXV/vvuc+6Uoc10kzRNUyiDQEEZRKZCEugMBQcaEAGVDymCAiKf4IAGRD9+yMynDMon
 qAikymAhdOSmBRVQZJAyCS20adrkpmmb6Sb3nrPf3x83KWmatGmbDgzv8+Tp03v3sM7e79177bXW
 Xof4BJ/gY4Da2tpQZih0lBxntLu7hfkEn2BnY8GCBSODweAUSuN9ax9xAbCiosJpa2tj/8LZ2dmq
@@ -3987,13 +3961,13 @@ ez4YyXjLddACmBJSpSTCJJaKurPLx+/Xrl3bAgBdXV3JSFbgNceYJsCMSqs6yCJQD+h2j97vm5rW
 xcPh7EjAcEJPtOnDrZ2d8UA4stxx+L4B8giMRvpfj+RjoG7z2fUqETgZQhakB1bGm5/d0N2d2NDd
 3ZWR2Rl3mXkMwAxazYGDf0LYD2QJhTZBDzGl+zZ0dm50uP1/YxOtF1m2q6EAAAAASUVORK5CYII=
 "
-         id="image6821"
-         x="396.80743"
-         y="903.63037" />
-      <image
-         width="120.06608"
-         height="66.945953"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAABcCAYAAAAPtnULAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+       height="30.830486"
+       width="97.116035" />
+    <image
+       y="815.59253"
+       x="510.03195"
+       id="image6832"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAABcCAYAAAAPtnULAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvWd4HdXV/v3bM3OqdI5675ZkFRv33nsDDLYB23QMhEDgCSWBkISEktBCDYQEQid0DBiCDcZg
 gxu4N1xl2bLVez19Zr8f5qgYbAcS4Mnz/n1f15GONDO7zT1rr7X2WnsEPxBmnzOfFUv/Kfr1LXK4
 I10pzc1thS0tLcNUEcpNinVZU+OicEc60EMGjc2tlNc309AebHZGRmyKi47aHh0dVfr2+0vr5563
@@ -4377,13 +4351,13 @@ wEppXxncehk8Wt66V35Q+btisFWPmqo+lBZa1XdWcqr8mqt+cvUvVnfziotyFb+xuI5nVmngmntI
 derGFR4sBwBdgZRb/9p90zTQdIHlg2BY0tysi2ijr7M/b/zBPX9oHYezy57/PxcNn+jOrsn2AAAA
 AElFTkSuQmCC
 "
-         id="image6832"
-         x="503.00848"
-         y="779.99493" />
-      <image
-         width="118.29233"
-         height="53.905361"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAABICAYAAAAH4kxJAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+       height="57.119133"
+       width="102.44189" />
+    <image
+       y="904.70532"
+       x="526.97113"
+       id="image6843"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAABICAYAAAAH4kxJAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsfWeYHMXV9anq7smzszub08zO5qC4ykgoIJAsMhgQmIwx2WQbgzHBvMYYMNFgwOQchEBkCUko
 57janCZszpNjd9X3Y3YXCQkQRti876fzPHpW06G6qvv0rapb954m+D+AYMCvU6isU6tEKlEJgIwB
 T5/O4/ZmuD0+azQSMUciYRoNR+DzBxDw+8EUBsYBpjBwzqEoDIwxUEpAKQUVaPwvJaCEQFKpkWRO
@@ -4679,10 +4653,8 @@ SERjWQYVLcDUuDxWOliyKeMty3Kj7Z9pdp9t5Re1XNyaoY93JKmUTEdnXyAnU0PrkuJfFWZr2oUS
 6dRrexe3o8j6dWniInvR6vS+J2+6wyKRdLi2PO+ZSqnqixLKRPYP3WyyRtFTumnF88HR+bFfUIVX
 gN2v0x8AAAAASUVORK5CYII=
 "
-         id="image6843"
-         x="522.86188"
-         y="896.15918" />
-    </g>
+       height="45.992737"
+       width="100.9285" />
     <g
        id="g8426"
        transform="translate(-4.1471529,36.062441)">
@@ -4711,7 +4683,7 @@ gN2v0x8AAAAASUVORK5CYII=
        ry="0"
        y="376.23352"
        x="385.63605"
-       height="312.81036"
+       height="346.7515"
        width="276.04739"
        id="rect6866"
        style="opacity:0.75;fill:#ffffff;fill-opacity:1;display:inline" />
@@ -4763,21 +4735,21 @@ gN2v0x8AAAAASUVORK5CYII=
          id="flowPara8141"
          style="font-size:11px">Invitamos a todos a participar en SaltaLUG, no hay requisitos de ningún tipo. Anótate en la lista de correo del grupo visitando nuestra página web.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:17.74825287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
-       x="646.53204"
-       y="644.14337"
+       style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+       x="645.56812"
+       y="659.94501"
        id="text8147"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="646.53204"
-         y="644.14337"
-         style="font-size:17.74825287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
-         id="tspan8462">[saltalug.org.ar]</tspan><tspan
+         x="645.56812"
+         y="659.94501"
+         style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+         id="tspan8462">[ saltalug.org.ar ]</tspan><tspan
          sodipodi:role="line"
-         x="646.53204"
-         y="666.32867"
-         style="font-size:17.74825287px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
-         id="tspan8466">+info</tspan></text>
+         x="645.56812"
+         y="679.75745"
+         style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+         id="tspan8466" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8166"
@@ -4790,7 +4762,7 @@ gN2v0x8AAAAASUVORK5CYII=
            y="-688.50385"
            style="font-size:10px" /></flowRegion><flowPara
          id="flowPara8172"></flowPara></flowRoot>    <image
-       y="576.74091"
+       y="605.02521"
        x="63.268108"
        id="image8212"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApAAAAG7CAYAAAB0NqU4AAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -5702,7 +5674,7 @@ RK5CYII=
     <flowRoot
        xml:space="preserve"
        id="flowRoot6899-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
        transform="translate(-320.93262,309.77322)"><flowRegion
          id="flowRegion6901-1"><rect
            id="rect6903-4"
@@ -5710,19 +5682,20 @@ RK5CYII=
            height="232.84523"
            x="400.12192"
            y="124.37605"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'API  PHONÉTIQUE';-inkscape-font-specification:'API  PHONÉTIQUE'"
            ry="0" /></flowRegion><flowPara
-         id="flowPara8133-9"
-         style="font-size:11px">Somos un grupo de usuarios y entusiastas del Software Libre. No tenemos fines de lucro; nuestro único interés es ayudarnos y compartir conocimiento y experiencia.</flowPara><flowPara
-         id="flowPara8135-1"
-         style="font-size:11px" /><flowPara
-         id="flowPara8137-1"
-         style="font-size:11px">Nos comunicamos a través de una lista de correo electrónico y realizamos reuniones periódicas. También organizamos eventos de difusión como FLISoL o las Jornadas de Software Libre.</flowPara><flowPara
-         id="flowPara8139-1"
-         style="font-size:11px" /><flowPara
-         id="flowPara8141-0"
-         style="font-size:11px">Invitamos a todos a participar en SaltaLUG, no hay requisitos de ningún tipo. Anótate en la lista de correo del grupo visitando nuestra página web.</flowPara></flowRoot>    <image
-       y="607.57031"
+         id="flowPara8472"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:'API  PHONÉTIQUE Bold'"
+   id="flowSpan8512">Charlas:</flowSpan> se darán en el <flowSpan
+   style="font-style:italic;-inkscape-font-specification:'API  PHONÉTIQUE Italic'"
+   id="flowSpan8514">Aula Virtual de la Facultad de Ciencias Exactas</flowSpan>. Están enfocadas a emglobar los temas más relevantes de las migraciones y uso del Software Libre.</flowPara><flowPara
+         id="flowPara8474"></flowPara><flowPara
+         id="flowPara8476"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:'API  PHONÉTIQUE Bold'"
+   id="flowSpan8510">Instalaciones:</flowSpan> se desarrollará en el <flowSpan
+   style="font-style:italic;-inkscape-font-specification:'API  PHONÉTIQUE Italic'"
+   id="flowSpan9316">Hall del Aula Virtual</flowSpan>. Es la oportunidad para que los usuarios no experimentados traigan sus computadoras y, junto a los usuarios más expertos, solucionen sus dudas y problemas. Se proporcionaran copias de sistemas operativos y colecciones de programas libres.</flowPara></flowRoot>    <image
+       y="620.69739"
        x="385.5"
        id="image8457"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAEQCAYAAAAj7nRhAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -8092,8 +8065,25 @@ TvLm9ZfqK3c82/Sa9k86zWXs6zW/Xt+ppXIkh5U66fw62xz5RfL3nX9e5vx77oz69pKO7+t124Ch
 P/BJZUvRgm1OPW8Tfb31bfCibel6fbvq20R+XLKDtO2iQdu2tt0/d17vef3mut9WR8rV8mujQhVn
 MSHxvAAAAABJRU5ErkJggg==
 "
-       height="98.291862"
-       width="162.61522" />
+       height="122.77662"
+       width="203.12309" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+       x="296.70029"
+       y="986.13043"
+       id="text8147-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="296.70029"
+         y="986.13043"
+         style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+         id="tspan8462-5">[ flisol.saltalug.org.ar ]</tspan><tspan
+         sodipodi:role="line"
+         x="296.70029"
+         y="1005.9429"
+         style="font-size:15.84995651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Zekton Dots;-inkscape-font-specification:Zekton Dots"
+         id="tspan8466-3" /></text>
   </g>
   <g
      id="g3166"
