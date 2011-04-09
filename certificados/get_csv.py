@@ -17,7 +17,7 @@ def get_database(password):
 
 def get_csv(database):
     commands = ('.mode csv\n.separator ";"\n.header on\n'
-        'SELECT * FROM auth_user;\n')
+        'SELECT * FROM auth_user WHERE certificado = "T";\n')
     proc = Popen("sqlite3 %s" % database, stdin=PIPE, stdout=PIPE, shell=True)
     stdout, stderr = proc.communicate(input=commands)
 

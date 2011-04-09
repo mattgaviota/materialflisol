@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.1 r9760"
    version="1.0"
-   sodipodi:docname="plantilla.svg"
+   sodipodi:docname="certificado.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      id="base"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="439.65797"
-     inkscape:cy="368.65772"
+     inkscape:zoom="0.7"
+     inkscape:cx="541.569"
+     inkscape:cy="378.03313"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <defs
      id="defs4" />
   <metadata
@@ -117,7 +117,7 @@
          sodipodi:role="line"
          x="395.91489"
          y="683.16821"
-         id="tspan4170">Organizador / Coordinador</tspan></text>
+         id="tspan4170">Fundador SaltaLUG / UNSa</tspan></text>
     <text
        id="text4172"
        y="669.0722"
@@ -127,11 +127,11 @@
          y="669.0722"
          x="648.8739"
          id="tspan4174"
-         sodipodi:role="line">Marco A. Mansilla Gutierrez</tspan><tspan
+         sodipodi:role="line">Carlos Marcelo Cabrera</tspan><tspan
          id="tspan4176"
          y="683.16821"
          x="648.8739"
-         sodipodi:role="line">Director Ejecutivo SaltaLUG</tspan></text>
+         sodipodi:role="line">Coordianor FLISoL Salta</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4182"
